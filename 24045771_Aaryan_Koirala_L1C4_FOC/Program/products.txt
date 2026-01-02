@@ -1,0 +1,5 @@
+Vitamin C Serum,Garnier,179,2000,France
+Skin Cleanser,Cetaphil,114,560,Switzerland
+Sunscreen,Aqualogica,94,1400,India
+Face Wash,Himalaya,84,600,Nepal
+Mosturizer,Fenty Beauty,297,12800,USA
